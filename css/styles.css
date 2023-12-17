@@ -80,4 +80,4 @@ footer{
 
 
 
-ssh-keygen -t rsa -b 4096 -C "44382690+aVamp1r3@users.noreply.github.com"
+ssh-keygen -t ed25519 -C 44382690+aVamp1r3@users.noreply.github.com
